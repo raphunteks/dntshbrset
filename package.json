@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "DentsHub Riset - AI Academic Research OS & Thesis Workspace (Dual Connection GAS & Vercel)",
   "main": "index.html",
+  "engines": {
+    "node": "24.x"
+  },
   "scripts": {
     "start": "serve .",
     "build": "echo 'No build step required for static HTML assets'"
