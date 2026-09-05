@@ -1,0 +1,22 @@
+{
+  "name": "dentshub-riset-app",
+  "version": "1.0.0",
+  "description": "DentsHub Riset - AI Academic Research OS & Thesis Workspace (Dual Connection GAS & Vercel)",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "build": "echo 'No build step required for static HTML assets'"
+  },
+  "keywords": [
+    "dentshub",
+    "academic-research",
+    "thesis-workspace",
+    "google-apps-script",
+    "vercel"
+  ],
+  "author": "DentsHub Riset",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
